@@ -1,0 +1,36 @@
+h1 {
+    font-family: "Playwrite AU SA", cursive;
+}
+
+.color1 {
+    color: rgb(11, 88, 68);
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: initial;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 100px;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(215, 100, 43);
+    padding: 10px 20px;
+    background-image: -moz-radial-gradient(orange, tomato);
+    font-weight: 700;
+    color: aliceblue;
+
+    border-radius: 10px;
+}
