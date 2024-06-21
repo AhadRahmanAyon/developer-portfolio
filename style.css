@@ -65,3 +65,20 @@ body {
     padding-top: 200px;
     padding-bottom: 200px;
 }
+
+.last-stage {
+    background-image: url(exp-bg.png);
+}
+
+.experience-table {
+    box-shadow: 10px 10px 30px orange;
+    padding: 20px;
+    margin: 60px;
+    border-radius: 15px;
+
+}
+
+.title {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
