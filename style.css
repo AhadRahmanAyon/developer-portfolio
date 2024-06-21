@@ -74,11 +74,28 @@ body {
     box-shadow: 10px 10px 30px orange;
     padding: 20px;
     margin: 60px;
-    border-radius: 15px;
+
 
 }
 
 .title {
     color: green;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#brodr-slide {
+    border-left: 8px solid;
+    border-image: linear-gradient(blue, green);
+    border-image-slice: 1;
+    border-radius: 15px;
+
+}
+
+#border-slide {
+    border-left: 8px solid;
+    border-image: linear-gradient(rgb(205, 4, 4), rgb(235, 128, 40));
+    border-image-slice: 1;
+    border-radius: 15px;
+
+
 }
