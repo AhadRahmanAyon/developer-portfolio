@@ -43,3 +43,20 @@ body {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+.dream-big {
+    margin-top: 100px;
+}
+
+.dream-big {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    border-top: 150px;
+}
+
+.text {
+    text-align: initial;
+    padding-bottom: 30px;
+    padding-right: 100px;
+}
