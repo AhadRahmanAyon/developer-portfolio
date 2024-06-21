@@ -11,7 +11,7 @@ h3 {
     font-style: initial;
 }
 
-section {
+.formet {
     display: flex;
 }
 
@@ -59,4 +59,9 @@ body {
     text-align: initial;
     padding-bottom: 30px;
     padding-right: 100px;
+}
+
+.last-stage {
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
